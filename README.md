@@ -1,6 +1,6 @@
 <h1>"SISTEMA DE CONTROL DE CLIENTES" con JAVA, Spring Boot y Bootstrap</h1>
 
-<h3>🤓SCC es una aplicación web para el sistema de control de clientes desarrollado en Java con tecnólogias como Spring Boot, Thymeleaf, Hibernate, MySql, Bootstrap, JPA entre otras💻</h3>
+<h3>🤓SCC es una aplicación web para el sistema de control de clientes desarrollado en Java con tecnologías como Spring Boot, Thymeleaf, Hibernate, MySql, Bootstrap, JPA entre otras💻</h3>
 <h4>Dentro de sus principales carácteristicas se encuentran:</h4>
 <ul>
   <li>Sistema de logueo de usuarios con diferentes roles</li>
