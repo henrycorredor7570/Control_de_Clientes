@@ -23,7 +23,6 @@ public class UsuarioService implements UserDetailsService {
     @Transactional(readOnly=true)
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         Usuario usuario = usuarioDao.findByUsername(username);
-        
         if(usuario == null){
             throw new UsernameNotFoundException(username);
         }
@@ -35,6 +34,5 @@ public class UsuarioService implements UserDetailsService {
         }
         
         return new User(usuario.getUsername(), usuario.getPassword(), roles);
-    }
-    
+    }   
 }
