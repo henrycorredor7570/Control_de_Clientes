@@ -15,9 +15,11 @@
 </ul>
 
 <h5>Sigue estos pasos para descargar y abrir el proyecto en tu máquina local:</h5>
-### Paso 1: Clona el Repositorio
-
-Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina:
+<ul>
+  <li>Paso 1: Clona el Repositorio</li>
+  Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina:
 
 ```bash
 git clone https://github.com/tu-usuario/tu-proyecto.git
+
+</ul>
