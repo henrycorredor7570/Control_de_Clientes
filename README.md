@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/henrycorredor7570/Control_de_Clientes.git
-```bash
+```
 
   <li>Paso 2: Accede al Directorio del Proyecto</li>
   Ingresa al directorio recién creado con el siguiente comando:
