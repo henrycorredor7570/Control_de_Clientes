@@ -20,6 +20,10 @@
   Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/henrycorredor7570/Control_de_Clientes.git
 
-</ul>
+  <li>Paso 2: Accede al Directorio del Proyecto</li>
+  Ingresa al directorio recién creado con el siguiente comando:
+
+```bash
+cd tu-proyecto
