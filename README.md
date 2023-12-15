@@ -13,18 +13,3 @@
   <li>Eliminar Clientes</li>
   <li>Tarjeta del saldo total y del total de clientes</li>
 </ul>
-
-<h4>Sigue estos pasos para descargar y abrir el proyecto en tu máquina local:</h4>
-<ul>
-  <li>Paso 1: Clona el Repositorio</li>
-  Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina:
-
-```bash
-git clone https://github.com/henrycorredor7570/Control_de_Clientes.git
-```
-  <li>Paso 2: Accede al Directorio del Proyecto</li>
-  Ingresa al directorio recién creado con el siguiente comando:
-
-```bash
-cd tu-proyecto
-```
